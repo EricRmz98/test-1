@@ -1,8 +1,8 @@
-# Prueba para Corporativo MB
+# Prueba para Corporativo MB.
 
 Este proyecto fue elaborado por **Eric Ramirez** a modo de prueba.
 
-## Instrucciones para Correr el Proyecto
+## Instrucciones para Correr el Proyecto.
 
 Para ejecutar este proyecto localmente, sigue estos pasos:
 
