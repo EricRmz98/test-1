@@ -6,8 +6,8 @@ Este proyecto fue elaborado por **Eric Ramirez** a modo de prueba.
 
 Para ejecutar este proyecto localmente, sigue estos pasos:
 
-1. Instala las dependencias del proyecto ejecutando el siguiente comando:
+1. Instala las dependencias del proyecto ejecutando el siguiente comando:\n
 ```npm i```
 
-2. Inicia la aplicación utilizando el siguiente comando:\
+2. Inicia la aplicación utilizando el siguiente comando:\n
 ```npm start```
