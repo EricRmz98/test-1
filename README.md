@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Prueba para Corporativo MB
 
 Este proyecto fue elaborado por **Eric Ramirez** a modo de prueba.
 
